@@ -1,4 +1,11 @@
+# Ignore minified JavaScript files
 *.min.js linguist-vendored
+
+# Ignore minified CSS files
 *.min.css linguist-vendored
+
+# Ignore specific large generated files
 /path/to/large/generated/file.js linguist-generated
+
+# Ignore documentation files
 /path/to/docs linguist-documentation
