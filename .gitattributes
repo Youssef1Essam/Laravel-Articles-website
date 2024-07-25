@@ -1,0 +1,4 @@
+*.min.js linguist-vendored
+*.min.css linguist-vendored
+/path/to/large/generated/file.js linguist-generated
+/path/to/docs linguist-documentation
