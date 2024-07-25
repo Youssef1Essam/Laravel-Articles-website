@@ -9,3 +9,8 @@
 
 # Ignore documentation files
 /path/to/docs linguist-documentation
+
+# Ignore specific JavaScript files
+app.js linguist-vendored
+bootstrap.js linguist-vendored
+
